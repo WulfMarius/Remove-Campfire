@@ -1,0 +1,18 @@
+﻿{
+	"name": "Remove-Campfire",
+	"description": "Taking charcoal will also remove the campfire.",
+	"url": "https://github.com/WulfMarius/Remove-Campfire",
+	"releases": [
+		{
+			"version": "2.0.0",
+			"url": "https://github.com/WulfMarius/Remove-Campfire/releases/tag/2.0.0",
+			"changes": "updated to work with TLD V1.27",
+			"dependencies": [],
+			"assets": [
+				{
+					"url": "https://github.com/WulfMarius/Remove-Campfire/releases/download/2.0.0/Remove-Campfire-V2.0.0.zip"
+				}
+			]
+		}
+	]
+}
