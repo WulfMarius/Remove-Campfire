@@ -1,6 +1,6 @@
 ﻿{
 	"name": "Remove-Campfire",
-	"description": "Taking charcoal will also remove the campfire.",
+	"description": "Taking charcoal will also remove the campfire.\n\nDISCONTINUED.\nThe feature is now part of Home-Improvement.",
 	"url": "https://github.com/WulfMarius/Remove-Campfire",
 	"releases": [
 		{
